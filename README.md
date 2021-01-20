@@ -11,6 +11,8 @@ Terdiri dari 4 class diagram, yaitu KartuAnggota, Mahasiswa, NonMahasiswa, dan P
 ## Entity Relationship Diagram (ERD)
 ![mermaid-diagram-20210117234155](https://user-images.githubusercontent.com/62372670/105091799-f8e01880-5ad2-11eb-9808-7a231926e31c.png)
 
+Didalam ERD ini membutuhkan tabel/entitas yang nantinya akan digunakan didatabase, yang terdiri dari : Kartu Anggota, Mahasiswa dan Non Mahasiswa. Karena ERD ini merupakan generalisasi maka Kartu Anggota Adalah Mahasiswa Atau Kartu Anggota adalah Non Mahasiswa, jadi tidak mungkin Kartu Anggota merupakan keduanya. Dimana nantinya primary key dari mahasiswa mereferensi dari kartu anggota. Setiap Mahasiswa atau non mahasiswa memiliki lebih dari satu atau minimal satu kartu anggota tidak boleh tidak memilikinya.
+
 ## Diagram 
 ![Diagram](https://user-images.githubusercontent.com/62495628/105113758-6c097080-5a7a-11eb-9fe9-b182562c8e93.jpeg)
 
