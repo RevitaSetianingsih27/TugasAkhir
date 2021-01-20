@@ -16,7 +16,7 @@ Didalam ERD ini membutuhkan tabel/entitas yang nantinya akan digunakan didatabas
 ## Diagram 
 ![Diagram](https://user-images.githubusercontent.com/62495628/105113758-6c097080-5a7a-11eb-9fe9-b182562c8e93.jpeg)
 
-Diagram ini menjelaskan bagaimana scene builder netbeans terhubung dengan database. Berupa penambahan entitas yaitu entitas PeminjamanDataModel, KartuAggotaController, FormKartuAnggota, dan DBConnection, guna untuk menghubungkan ke basisdata, juga GUI Javafxnya
+Diagram ini menjelaskan bagaimana scene builder netbeans terhubung dengan database. Berupa penambahan entitas yaitu entitas PeminjamanDataModel, KartuAggotaController, FormKartuAnggota, dan DBConnection, guna untuk menghubungkan ke basisdata, juga GUI Javafxnya. 
 
 
 
